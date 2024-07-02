@@ -1,16 +1,28 @@
-## Hi there 👋
+# Nahiduzzaman - UI/UX Designer and Developer
 
-<!--
-**md-nahiduzzaman/md-nahiduzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX designer. With a keen interest in continuously updating my skills, I strive to contribute meaningfully to the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🌍 Location:** Dhaka, Bangladesh
+- **🌱 Learning:** Python and advanced web development techniques
+- **⚡ Fun fact:** I love solving puzzles.
+
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=md-nahiduzzaman&show_icons=true&hide_border=true)
+
+## Contact Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mdnahiduzzaman/)
+- **Twitter:** [Your Twitter Profile](https://x.com/mdnahiduzzaman_)
+- **Email:** [join.nahiduzzaman@example.com](mailto:join.nahiduzzaman@example.com)
