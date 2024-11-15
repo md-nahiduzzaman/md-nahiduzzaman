@@ -20,7 +20,7 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Preview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-nahiduzzaman)](https://git.io/streak-stats)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=md-nahiduzzaman&show_icons=true&hide_border=true)
