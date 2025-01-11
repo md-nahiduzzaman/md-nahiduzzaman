@@ -6,7 +6,7 @@
 Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX designer. With a keen interest in continuously updating my skills, I strive to contribute meaningfully to the tech community.
 
 - **🌍 Location:** Dhaka, Bangladesh
-- **🌱 Learning:** Python and advanced web development techniques
+- **🌱 Learning:** Advanced web development techniques
 - **⚡ Fun fact:** I love solving puzzles.
 
 ## Skills
@@ -26,6 +26,5 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=md-nahiduzzaman&show_icons=true&hide_border=true)
 
 ## Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mdnahiduzzaman/)
-- **Twitter:** [Your Twitter Profile](https://x.com/mdnahiduzzaman_)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mdnahiduzzaman/)
 - **Email:** [join.nahiduzzaman@example.com](mailto:join.nahiduzzaman@example.com)
