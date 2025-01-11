@@ -25,5 +25,5 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=md-nahiduzzaman&show_icons=true&hide_border=true)
 
 ## Contact Me
-- **LinkedIn:** [in/mdnahiduzzaman/](https://www.linkedin.com/in/mdnahiduzzaman/)
+- **LinkedIn:** [in/mdnahiduzzaman](https://www.linkedin.com/in/mdnahiduzzaman/)
 - **Email:** [join.nahiduzzaman@gmail.com](mailto:join.nahiduzzaman@gmail.com)
