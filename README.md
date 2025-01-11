@@ -17,7 +17,6 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Preview
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-nahiduzzaman)](https://git.io/streak-stats)
@@ -27,4 +26,4 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 
 ## Contact Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mdnahiduzzaman/)
-- **Email:** [join.nahiduzzaman@example.com](mailto:join.nahiduzzaman@example.com)
+- **Email:** [join.nahiduzzaman@gmail.com](mailto:join.nahiduzzaman@gmail.com)
