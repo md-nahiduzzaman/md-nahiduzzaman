@@ -19,7 +19,7 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Preview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-nahiduzzaman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-nahiduzzaman)](https://git.io/streak-stats)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=md-nahiduzzaman&show_icons=true&hide_border=true)
