@@ -7,7 +7,7 @@ Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX d
 
 - **🌍 Location:** Dhaka, Bangladesh
 - **🌱 Learning:** Advanced web development techniques
-- **⚡ Fun fact:** I love solving puzzles.
+- **⚡ Fun fact:** I love solving puzzles & complex problem
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
