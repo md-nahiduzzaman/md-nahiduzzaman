@@ -5,7 +5,7 @@
 ## About Me
 Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX designer. With a keen interest in continuously updating my skills, I strive to contribute meaningfully to the tech community.
 
-- **🌍 Location:** Dhaka, Bangladesh.
+- **🌍 Location:** Dhaka, Bangladesh..
 - **🌱 Learning:** Advanced web development techniques.
 - **⚡ Fun fact:** I love solving puzzles & complex problem.
 
