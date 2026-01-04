@@ -3,7 +3,7 @@
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
 ## About Me
-Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX designer. With a keen interest in continuously updating my skills, I strive to contribute meaningfully to the tech community..
+Hello! I'm Nahiduzzaman, a passionate MERN stack developer and full-time UI/UX designer. With a keen interest in continuously updating my skills, I strive to contribute meaningfully to the tech community...
 
 - **🌍 Location:** Dhaka, Bangladesh..
 - **🌱 Learning:** Advanced web development techniques.
